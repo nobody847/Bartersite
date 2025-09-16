@@ -110,7 +110,7 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             {/* Copyright */}
             <div className="text-primary-foreground/60 text-sm">
-              © 2024 BarterBot. Built with ❤️ for the bartering community.
+              © 2025 BarterBot. Built with ❤️ Priyam A. Tagadiya.
             </div>
 
             {/* Developer Contact */}
